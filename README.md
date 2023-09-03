@@ -15,4 +15,4 @@ This Rust CLI tool is designed to calculate forward kinematics for robotic arms 
 1. **Clone this repository to your local machine:**
 
    ```shell
-   git clone https://github.com/your-username/forward-kinematics-rust.git
+   git clone https://github.com/awaisamjad/denavit_hartenburg.git
